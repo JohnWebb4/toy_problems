@@ -1,5 +1,7 @@
 # Toy Problems
 
+[![Build Status](https://travis-ci.org/JohnWebb4/toy-problems.svg?branch=master)](https://travis-ci.org/JohnWebb4/toy-problems)
+
 Repository of all of my toy problems.
 
 Includes test files for verifying work.
