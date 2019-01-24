@@ -1,4 +1,4 @@
-import { formingMagicSquare } from "./magicSquare";
+import { formingMagicSquare } from "../../../main/javascript/magicSquare/magicSquare";
 
 describe("formingMagicSquare", () => {
   let magicSquare: number[][];
