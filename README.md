@@ -32,6 +32,17 @@ Inside the repository, run the followin command to build the Typescript files.
 npm run build
 ```
 
+## Problems Solved
+
+| Problem              | Language   |
+| -------------------- | ---------- |
+| arrayManipulation    | Java 8     |
+| determiningDNAHealth | Java 8     |
+| diwaliLights         | Java 8     |
+| extraLongFactorials  | Java 8     |
+| huffmanDecoding      | Java 8     |
+| magicSquare          | JavaScript |
+
 ## License
 
 [MIT](/LICENSE)
