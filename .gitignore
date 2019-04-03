@@ -72,3 +72,13 @@ typings/
 
 # next.js build output
 .next
+
+# C++
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CMakeFiles
+runTests
+
+# VSCode
+.vscode

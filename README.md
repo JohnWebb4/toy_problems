@@ -1,7 +1,5 @@
 # Toy Problems
 
-[![Build Status](https://travis-ci.org/JohnWebb4/toy-problems.svg?branch=master)](https://travis-ci.org/JohnWebb4/toy-problems)
-
 Repository of all of my toy problems.
 
 Includes test files for verifying work.
@@ -18,7 +16,26 @@ npm install
 
 ## Running Tests
 
-Inside the repository, run the following command to run the jest test files.
+### Running C++ Tests (GoogleTest)
+
+The C++ tests are written using GoogleTest.
+
+Inside the root folder, run the following command to build the Google Test Suite.
+
+```sh
+cmake .
+make
+```
+
+Run the files using the generated executable.
+
+```sh
+./runTests
+```
+
+### Running JavaScript Tests (Jest)
+
+Run the following command to run the jest test files.
 
 ```sh
 npm run test
@@ -26,7 +43,7 @@ npm run test
 
 ## Building the repository
 
-Inside the repository, run the followin command to build the Typescript files.
+Run the following command to build the Typescript files.
 
 ```sh
 npm run build
