@@ -1,7 +1,8 @@
-#include "sumNSeries.h"
 #include <stdio.h>
 
-int summingSeries(long n)
+#include "sumNSeries.h"
+
+int sumNSeries(long n)
 {
   long overflow = 1000000007;
 

@@ -18,7 +18,7 @@ npm install
 
 ### Running C++ Tests (GoogleTest)
 
-The C++ tests are written using GoogleTest.
+The C++ tests are written using GoogleTest. You will need to install it (https://github.com/google/googletest).
 
 Inside the root folder, run the following command to build the Google Test Suite.
 

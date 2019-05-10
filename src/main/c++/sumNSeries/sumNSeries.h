@@ -3,4 +3,4 @@
 
 int sumNSeries(long n);
 
-#endif
+#endif // SUMNSERIES_H

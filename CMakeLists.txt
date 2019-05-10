@@ -4,11 +4,15 @@ cmake_minimum_required(VERSION 3.10)
 find_package(GTest REQUIRED)
 include_directories(${GTEST_INCLUDE_DIRS})
 
-set(SOURCE tests.cpp)
+set(SOURCE 
+  tests.cpp
+  ./src/main/c++/sumNSeries/sumNSeries.cpp
+  ./src/main/c++/sherlockAndPermutations/sherlockAndPermutations.cpp
+)
 
 # Link tests
 add_executable(runTests ${SOURCE})
 target_link_libraries(runTests ${GTEST_LIBRARIES} pthread)
 
-target_include_directories(runTests PUBLIC src/test/c++/sumNSeries)
-target_include_directories(runTests PUBLIC src/main/c++/sumNSeries)
+target_include_directories(runTests PUBLIC src/main/c++)
+target_include_directories(runTests PUBLIC src/test/c++/)
