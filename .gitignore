@@ -82,3 +82,6 @@ runTests
 
 # VSCode
 .vscode
+
+# Python
+*.pyc

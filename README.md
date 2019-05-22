@@ -33,6 +33,10 @@ Run the files using the generated executable.
 ./runTests
 ```
 
+### Running Java Tests (Gradle)
+
+A gradle build is supplied. You will need to build the gradle file and run the tests task.
+
 ### Running JavaScript Tests (Jest)
 
 Run the following command to run the jest test files.
@@ -47,6 +51,14 @@ Run the following command to build the Typescript files.
 
 ```sh
 npm run build
+```
+
+### Running Python 3.5 Tests
+
+The file `runTests.py` initializes the test runner. Run the following command
+
+```sh
+python runTests.py
 ```
 
 ## Problems Solved
