@@ -85,3 +85,6 @@ runTests
 
 # Python
 *.pyc
+
+# Pycharm
+venv

@@ -63,14 +63,16 @@ python runTests.py
 
 ## Problems Solved
 
-| Problem              | Language   |
-| -------------------- | ---------- |
-| arrayManipulation    | Java 8     |
-| determiningDNAHealth | Java 8     |
-| diwaliLights         | Java 8     |
-| extraLongFactorials  | Java 8     |
-| huffmanDecoding      | Java 8     |
-| magicSquare          | JavaScript |
+| Problem                | Language   |
+| ---------------------- | ---------- |
+| arrayManipulation      | Java 8     |
+| determiningDNAHealth   | Java 8     |
+| diwaliLights           | Java 8     |
+| extraLongFactorials    | Java 8     |
+| huffmanDecoding        | Java 8     |
+| magicSquare            | JavaScript |
+| sherlockAndPermuations | C++        |
+| sumNSeries             | C++        |
 
 ## License
 
