@@ -72,6 +72,7 @@ python runTests.py
 | huffmanDecoding        | Java 8     |
 | magicSquare            | JavaScript |
 | sherlockAndPermuations | C++        |
+| specialMultiple        | Python     |
 | sumNSeries             | C++        |
 
 ## License
