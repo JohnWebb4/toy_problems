@@ -71,6 +71,7 @@ python runTests.py
 | extraLongFactorials    | Java 8     |
 | huffmanDecoding        | Java 8     |
 | magicSquare            | JavaScript |
+| isFibo                 | JavaScript |
 | sherlockAndPermuations | C++        |
 | specialMultiple        | Python     |
 | sumNSeries             | C++        |
