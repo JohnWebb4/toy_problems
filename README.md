@@ -66,6 +66,7 @@ python runTests.py
 | Problem                | Language   |
 | ---------------------- | ---------- |
 | arrayManipulation      | Java 8     |
+| countingValleys        | Python     |
 | determiningDNAHealth   | Java 8     |
 | diwaliLights           | Java 8     |
 | extraLongFactorials    | Java 8     |
@@ -75,6 +76,15 @@ python runTests.py
 | sherlockAndPermuations | C++        |
 | specialMultiple        | Python     |
 | sumNSeries             | C++        |
+
+## Problem Count By Language
+
+| Language   | Count |
+| ---------- | ----- |
+| C++        | 2     |
+| Java 8     | 5     |
+| JavaScript | 2     |
+| Python     | 2     |
 
 ## License
 
