@@ -8,6 +8,7 @@ set(SOURCE
   tests.cpp
   ./src/main/c++/sumNSeries/sumNSeries.cpp
   ./src/main/c++/sherlockAndPermutations/sherlockAndPermutations.cpp
+  ./src/main/c++/nonDivisible/nonDivisible.cpp
 )
 
 # Link tests

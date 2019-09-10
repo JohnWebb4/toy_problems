@@ -72,6 +72,7 @@ python runTests.py
 | extraLongFactorials    | Java 8     |
 | huffmanDecoding        | Java 8     |
 | magicSquare            | JavaScript |
+| nonDivisible           | C++        |
 | isFibo                 | JavaScript |
 | sherlockAndPermuations | C++        |
 | specialMultiple        | Python     |
@@ -81,7 +82,7 @@ python runTests.py
 
 | Language   | Count |
 | ---------- | ----- |
-| C++        | 2     |
+| C++        | 3     |
 | Java 8     | 5     |
 | JavaScript | 2     |
 | Python     | 2     |
