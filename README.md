@@ -68,6 +68,7 @@ python runTests.py
 | arrayManipulation      | Java 8     |
 | blackJack              | JavaScript |
 | countingValleys        | Python     |
+| cycleDetection         | Python     |
 | determiningDNAHealth   | Java 8     |
 | diwaliLights           | Java 8     |
 | extraLongFactorials    | Java 8     |
@@ -86,7 +87,7 @@ python runTests.py
 | C++        | 3     |
 | Java 8     | 5     |
 | JavaScript | 3     |
-| Python     | 2     |
+| Python     | 3     |
 
 ## License
 
