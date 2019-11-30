@@ -2,7 +2,7 @@
 
 #include "../../../main/c++/sherlockAndPermutations/sherlockAndPermutations.h"
 
-TEST(SherlockAndPermutationsTest1, Test)
+TEST(SherlockAndPermutations, Test1)
 {
   ASSERT_EQ(1, solve(1, 1));
 }

@@ -3,7 +3,7 @@
 
 #include "../../../main/c++/nonDivisible/nonDivisible.h"
 
-TEST(NonDivisibleTest1, Test)
+TEST(NonDivisible, Test1)
 {
   std::vector<int> vect;
   vect.push_back(10);
@@ -12,7 +12,7 @@ TEST(NonDivisibleTest1, Test)
   ASSERT_EQ(1, nonDivisible(1, vect));
 }
 
-TEST(NonDivisibleTest3, Test)
+TEST(NonDivisible, Test2)
 {
   std::vector<int> vect;
   vect.push_back(1);
@@ -24,7 +24,7 @@ TEST(NonDivisibleTest3, Test)
 
 }
 
-TEST(NonDivisibleTest7, Test)
+TEST(NonDivisible, Test3)
 {
   std::vector<int> vect;
   vect.push_back(278);

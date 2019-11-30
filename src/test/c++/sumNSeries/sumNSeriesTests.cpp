@@ -2,22 +2,22 @@
 
 #include "../../../main/c++/sumNSeries/sumNSeries.h"
 
-TEST(SummingNSeriesTest1, Test)
+TEST(SummingNSeries, Test1)
 {
   ASSERT_EQ(1, sumNSeries(1));
 }
 
-TEST(SummingNSeriesTest2, Test)
+TEST(SummingNSeries, Test2)
 {
   ASSERT_EQ(4, sumNSeries(2));
 }
 
-TEST(SummingNSeriesTest231677104, Test)
+TEST(SummingNSeries, TestLargeNumber)
 {
   ASSERT_EQ(142106856, sumNSeries(231677104));
 }
 
-TEST(SummingNSeriesTestAll, Test)
+TEST(SummingNSeries, TestALot)
 {
   ASSERT_EQ(100, sumNSeries(10));
   ASSERT_EQ(218194447, sumNSeries(229137999));

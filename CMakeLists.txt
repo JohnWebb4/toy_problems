@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
+set (CMAKE_CXX_STANDARD 11)
 
 # Locate GTest
 find_package(GTest REQUIRED)
@@ -9,6 +10,7 @@ set(SOURCE
   ./src/main/c++/sumNSeries/sumNSeries.cpp
   ./src/main/c++/sherlockAndPermutations/sherlockAndPermutations.cpp
   ./src/main/c++/nonDivisible/nonDivisible.cpp
+  ./src/main/c++/climbingLeaderboard/climbingLeaderboard.cpp
 )
 
 # Link tests

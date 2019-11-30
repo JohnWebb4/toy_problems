@@ -84,7 +84,7 @@ python runTests.py
 
 | Language   | Count |
 | ---------- | ----- |
-| C++        | 3     |
+| C++        | 4     |
 | Java 8     | 5     |
 | JavaScript | 3     |
 | Python     | 3     |
