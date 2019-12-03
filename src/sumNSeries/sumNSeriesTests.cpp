@@ -1,6 +1,6 @@
 #include <gtest/gtest.h>
 
-#include "../../../main/c++/sumNSeries/sumNSeries.h"
+#include "./sumNSeries.h"
 
 TEST(SummingNSeries, Test1)
 {

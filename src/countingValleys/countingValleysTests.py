@@ -1,6 +1,6 @@
 import unittest
 
-from src.main.python.countingValleys.countingValleys import counting_valleys;
+from src.countingValleys.countingValleys import counting_valleys;
 
 
 class TestCountingValleys(unittest.TestCase):

@@ -1,10 +1,14 @@
-import { formingMagicSquare } from "../../../main/javascript/magicSquare/magicSquare";
+import { formingMagicSquare } from "./magicSquare";
 
 describe("formingMagicSquare", () => {
   let magicSquare: number[][];
 
   beforeEach(() => {
-    magicSquare = [[8, 3, 4], [1, 5, 9], [6, 7, 2]];
+    magicSquare = [
+      [8, 3, 4],
+      [1, 5, 9],
+      [6, 7, 2]
+    ];
   });
 
   describe("when I pass a magic square", () => {
@@ -23,7 +27,11 @@ describe("formingMagicSquare", () => {
 
   describe("test 1", () => {
     it("should return 4", () => {
-      magicSquare = [[4, 8, 2], [4, 5, 7], [6, 1, 6]];
+      magicSquare = [
+        [4, 8, 2],
+        [4, 5, 7],
+        [6, 1, 6]
+      ];
 
       expect(formingMagicSquare(magicSquare)).toEqual(4);
     });
@@ -31,7 +39,11 @@ describe("formingMagicSquare", () => {
 
   describe("test 2", () => {
     it("should return 14", () => {
-      magicSquare = [[4, 5, 8], [2, 4, 1], [1, 9, 7]];
+      magicSquare = [
+        [4, 5, 8],
+        [2, 4, 1],
+        [1, 9, 7]
+      ];
 
       expect(formingMagicSquare(magicSquare)).toEqual(14);
     });

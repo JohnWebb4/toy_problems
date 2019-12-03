@@ -17,5 +17,4 @@ set(SOURCE
 add_executable(runTests ${SOURCE})
 target_link_libraries(runTests ${GTEST_LIBRARIES} pthread)
 
-target_include_directories(runTests PUBLIC src/main/c++)
-target_include_directories(runTests PUBLIC src/test/c++/)
+target_include_directories(runTests PUBLIC src/)

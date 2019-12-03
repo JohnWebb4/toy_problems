@@ -1,6 +1,6 @@
 #include <gtest/gtest.h>
 
-#include "../../../main/c++/sherlockAndPermutations/sherlockAndPermutations.h"
+#include "./sherlockAndPermutations/sherlockAndPermutations.h"
 
 TEST(SherlockAndPermutations, Test1)
 {

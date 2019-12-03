@@ -1,5 +1,10 @@
 module.exports = {
+  modulePathIgnorePatterns: ["dist"],
   preset: "ts-jest",
   testEnvironment: "node",
-  testPathIgnorePatterns: ["/node_modules/", "/dist/"]
+  transform: {
+    "^.+\\.(js)$": "<rootDir>/node_modules/babel-jest",
+    "\\.(ts|tsx)$": "ts-jest"
+  },
+  transformIgnorePatterns: ["node_modules/"]
 };

@@ -1,6 +1,6 @@
 import unittest
 
-from src.main.python.specialMultiple.specialMultiple import special_multiple
+from src.specialMultiple.specialMultiple import special_multiple
 
 
 class TestSpecialMultiple(unittest.TestCase):
