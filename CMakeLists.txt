@@ -7,10 +7,10 @@ include_directories(${GTEST_INCLUDE_DIRS})
 
 set(SOURCE 
   tests.cpp
-  ./src/main/c++/sumNSeries/sumNSeries.cpp
-  ./src/main/c++/sherlockAndPermutations/sherlockAndPermutations.cpp
-  ./src/main/c++/nonDivisible/nonDivisible.cpp
-  ./src/main/c++/climbingLeaderboard/climbingLeaderboard.cpp
+  ./src/sumNSeries/sumNSeries.cpp
+  ./src/sherlockAndPermutations/sherlockAndPermutations.cpp
+  ./src/nonDivisible/nonDivisible.cpp
+  ./src/climbingLeaderboard/climbingLeaderboard.cpp
 )
 
 # Link tests

@@ -1,4 +1,4 @@
-import { getBlackJackPermutations } from "../../../main/javascript/blackJack/blackJack";
+import { getBlackJackPermutations } from "./blackJack";
 
 interface IDescribeValues {
   value: number;

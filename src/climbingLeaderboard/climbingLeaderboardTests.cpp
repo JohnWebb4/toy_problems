@@ -1,7 +1,7 @@
 #include <gtest/gtest.h>
 #include <vector>
 
-#include "../../../main/c++/climbingLeaderboard/climbingLeaderboard.h"
+#include "./climbingLeaderboard/climbingLeaderboard.h"
 
 TEST(ClimbingLeaderboard, Test1)
 {

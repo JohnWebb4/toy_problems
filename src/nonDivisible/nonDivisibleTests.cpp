@@ -1,7 +1,7 @@
 #include <gtest/gtest.h>
 #include <vector>
 
-#include "../../../main/c++/nonDivisible/nonDivisible.h"
+#include "./nonDivisible/nonDivisible.h"
 
 TEST(NonDivisible, Test1)
 {

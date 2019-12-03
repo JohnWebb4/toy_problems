@@ -1,6 +1,6 @@
 import unittest
 
-from src.main.python.cycleDetection.cycleDetection import has_cycle, Node
+from src.cycleDetection.cycleDetection import has_cycle, Node
 
 
 class TestCycleDetection(unittest.TestCase):
