@@ -77,6 +77,7 @@ python runTests.py
 | nonDivisible           | C++        |
 | isFibo                 | JavaScript |
 | sherlockAndPermuations | C++        |
+| sockMerchant           | JavaScript |
 | specialMultiple        | Python     |
 | sumNSeries             | C++        |
 
@@ -86,7 +87,7 @@ python runTests.py
 | ---------- | ----- |
 | C++        | 4     |
 | Java 8     | 5     |
-| JavaScript | 3     |
+| JavaScript | 4     |
 | Python     | 3     |
 
 ## License
