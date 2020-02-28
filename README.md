@@ -73,6 +73,7 @@ python runTests.py
 | diwaliLights           | Java 8     |
 | extraLongFactorials    | Java 8     |
 | huffmanDecoding        | Java 8     |
+| kCandyStore            | JavaScript |
 | magicSquare            | JavaScript |
 | nonDivisible           | C++        |
 | isFibo                 | JavaScript |
