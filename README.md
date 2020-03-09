@@ -71,6 +71,7 @@ python runTests.py
 | cycleDetection         | Python     |
 | determiningDNAHealth   | Java 8     |
 | diwaliLights           | Java 8     |
+| ransonNote             | Python     |
 | extraLongFactorials    | Java 8     |
 | huffmanDecoding        | Java 8     |
 | kCandyStore            | JavaScript |
@@ -89,7 +90,7 @@ python runTests.py
 | C++        | 4     |
 | Java 8     | 5     |
 | JavaScript | 4     |
-| Python     | 3     |
+| Python     | 4     |
 
 ## License
 
