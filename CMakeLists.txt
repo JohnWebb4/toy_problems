@@ -11,6 +11,7 @@ set(SOURCE
   ./src/sherlockAndPermutations/sherlockAndPermutations.cpp
   ./src/nonDivisible/nonDivisible.cpp
   ./src/climbingLeaderboard/climbingLeaderboard.cpp
+  ./src/comparator/comparator.cpp
 )
 
 # Link tests

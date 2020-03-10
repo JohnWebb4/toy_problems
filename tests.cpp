@@ -2,6 +2,7 @@
 #include "./src/sherlockAndPermutations/sherlockAndPermutationsTests.cpp"
 #include "./src/nonDivisible/nonDivisibleTests.cpp"
 #include "./src/climbingLeaderboard/climbingLeaderboardTests.cpp"
+#include "./src/comparator/comparatorTests.cpp"
 
 int main(int argc, char **argv)
 {

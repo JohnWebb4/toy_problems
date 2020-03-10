@@ -67,6 +67,7 @@ python runTests.py
 | ---------------------- | ---------- |
 | arrayManipulation      | Java 8     |
 | blackJack              | JavaScript |
+| comparator             | C++        |
 | countingValleys        | Python     |
 | cycleDetection         | Python     |
 | determiningDNAHealth   | Java 8     |
@@ -87,7 +88,7 @@ python runTests.py
 
 | Language   | Count |
 | ---------- | ----- |
-| C++        | 4     |
+| C++        | 5     |
 | Java 8     | 5     |
 | JavaScript | 4     |
 | Python     | 4     |
