@@ -92,7 +92,7 @@ python runTests.py
 | C++        | 5     |
 | Java 8     | 5     |
 | JavaScript | 5     |
-| Python     | 4     |
+| Python     | 5     |
 
 ## License
 
