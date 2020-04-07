@@ -74,6 +74,7 @@ python runTests.py
 | diwaliLights           | Java 8     |
 | ransonNote             | Python     |
 | extraLongFactorials    | Java 8     |
+| hashTableParlor        | Java 8     |
 | huffmanDecoding        | Java 8     |
 | kCandyStore            | JavaScript |
 | magicSquare            | JavaScript |
@@ -91,7 +92,7 @@ python runTests.py
 | Language   | Count |
 | ---------- | ----- |
 | C++        | 6     |
-| Java 8     | 5     |
+| Java 8     | 6     |
 | JavaScript | 5     |
 | Python     | 5     |
 
