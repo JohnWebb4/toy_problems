@@ -77,6 +77,7 @@ python runTests.py
 | huffmanDecoding        | Java 8     |
 | kCandyStore            | JavaScript |
 | magicSquare            | JavaScript |
+| minAbsDiff             | C++ .      |
 | nonDivisible           | C++        |
 | isFibo                 | JavaScript |
 | sherlockAndPermuations | C++        |
@@ -89,7 +90,7 @@ python runTests.py
 
 | Language   | Count |
 | ---------- | ----- |
-| C++        | 5     |
+| C++        | 6     |
 | Java 8     | 5     |
 | JavaScript | 5     |
 | Python     | 5     |

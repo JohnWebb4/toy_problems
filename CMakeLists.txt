@@ -12,6 +12,7 @@ set(SOURCE
   ./src/nonDivisible/nonDivisible.cpp
   ./src/climbingLeaderboard/climbingLeaderboard.cpp
   ./src/comparator/comparator.cpp
+  ./src/minAbsDiff/minAbsDiff.cpp
 )
 
 # Link tests
