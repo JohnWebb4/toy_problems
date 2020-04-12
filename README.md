@@ -77,6 +77,7 @@ python runTests.py
 | hashTableParlor        | Java 8     |
 | huffmanDecoding        | Java 8     |
 | kCandyStore            | JavaScript |
+| maxArraySum            | JavaScript |
 | magicSquare            | JavaScript |
 | minAbsDiff             | C++ .      |
 | nonDivisible           | C++        |
@@ -91,7 +92,7 @@ python runTests.py
 
 | Language   | Count |
 | ---------- | ----- |
-| C++        | 6     |
+| C++        | 7     |
 | Java 8     | 6     |
 | JavaScript | 5     |
 | Python     | 5     |

@@ -13,6 +13,7 @@ set(SOURCE
   ./src/climbingLeaderboard/climbingLeaderboard.cpp
   ./src/comparator/comparator.cpp
   ./src/minAbsDiff/minAbsDiff.cpp
+  ./src/maxArraySum/maxArraySum.cpp
 )
 
 # Link tests

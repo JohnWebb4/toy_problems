@@ -4,6 +4,7 @@
 #include "./src/climbingLeaderboard/climbingLeaderboardTests.cpp"
 #include "./src/comparator/comparatorTests.cpp"
 #include "./src/minAbsDiff/minAbsDiffTests.cpp"
+#include "./src/maxArraySum/maxArraySumTests.cpp"
 
 int main(int argc, char **argv)
 {
