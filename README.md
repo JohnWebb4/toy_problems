@@ -67,6 +67,7 @@ python runTests.py
 | ---------------------- | ---------- |
 | arrayManipulation      | Java 8     |
 | blackJack              | JavaScript |
+| balancedBrackets       | JavaScript |
 | comparator             | C++        |
 | countingValleys        | Python     |
 | cycleDetection         | Python     |
@@ -94,7 +95,7 @@ python runTests.py
 | ---------- | ----- |
 | C++        | 7     |
 | Java 8     | 6     |
-| JavaScript | 5     |
+| JavaScript | 6     |
 | Python     | 5     |
 
 ## License
