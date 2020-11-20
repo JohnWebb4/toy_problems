@@ -87,6 +87,7 @@ python runTests.py
 | sherlockAndAnagrams    | JavaScript |
 | sockMerchant           | JavaScript |
 | specialMultiple        | Python     |
+| sudokuSolver           | JavaScript |
 | sumNSeries             | C++        |
 
 ## Problem Count By Language
