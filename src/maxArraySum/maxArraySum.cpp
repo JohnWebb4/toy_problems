@@ -1,3 +1,4 @@
+#include <algorithm>
 #include "./maxArraySum.h"
 
 int ArraySummer::getMaxArraySum(std::vector<int> arr)
