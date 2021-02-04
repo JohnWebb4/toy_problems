@@ -5,6 +5,7 @@ from src.countingValleys.countingValleysTests import TestCountingValleys
 from src.cycleDetection.cycleDetectionTests import TestCycleDetection
 from src.ransomNote.ransomNoteTests import TestRansomNote
 from src.makingAnagrams.makingAnagramsTests import TestMakingAnagrams
+from src.removeDuplicates.removeDuplicatesTests import TestRemoveDuplicates
 
 if __name__ == '__main__':
     unittest.main()

@@ -83,6 +83,7 @@ python runTests.py
 | minAbsDiff             | C++ .      |
 | nonDivisible           | C++        |
 | isFibo                 | JavaScript |
+| removeDuplicates       | Python     |
 | sherlockAndPermuations | C++        |
 | sherlockAndAnagrams    | JavaScript |
 | sockMerchant           | JavaScript |
@@ -97,7 +98,7 @@ python runTests.py
 | C++        | 7     |
 | Java 8     | 6     |
 | JavaScript | 6     |
-| Python     | 5     |
+| Python     | 6     |
 
 ## License
 
