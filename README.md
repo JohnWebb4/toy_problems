@@ -70,6 +70,7 @@ python runTests.py
 | balancedBrackets       | JavaScript |
 | comparator             | C++        |
 | countingValleys        | Python     |
+| courseSchedule         | Java       |
 | cycleDetection         | Python     |
 | determiningDNAHealth   | Java 8     |
 | diwaliLights           | Java 8     |
@@ -96,7 +97,7 @@ python runTests.py
 | Language   | Count |
 | ---------- | ----- |
 | C++        | 7     |
-| Java 8     | 6     |
+| Java 8     | 7     |
 | JavaScript | 6     |
 | Python     | 6     |
 
