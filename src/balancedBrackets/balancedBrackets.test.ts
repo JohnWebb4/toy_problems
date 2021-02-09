@@ -182,9 +182,7 @@ describe("isBalancedBracket", () => {
       "YES"
     ];
 
-    console.log("hi");
     for (let i = 0; i < inputs.length; i++) {
-      console.log("Adding", inputs[i], expected[i]);
       expect(isBalancedBracket(inputs[i])).toEqual(expected[i]);
     }
   });
