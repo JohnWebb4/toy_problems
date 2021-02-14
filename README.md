@@ -87,6 +87,7 @@ python runTests.py
 | removeDuplicates       | Python     |
 | sherlockAndPermuations | C++        |
 | sherlockAndAnagrams    | JavaScript |
+| shortestPathMatrix     | Python     |
 | sockMerchant           | JavaScript |
 | specialMultiple        | Python     |
 | sudokuSolver           | JavaScript |
