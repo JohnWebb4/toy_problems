@@ -79,6 +79,7 @@ python runTests.py
 | hashTableParlor        | Java 8     |
 | huffmanDecoding        | Java 8     |
 | kCandyStore            | JavaScript |
+| longestSubstring       | Python     |
 | maxArraySum            | JavaScript |
 | magicSquare            | JavaScript |
 | minAbsDiff             | C++ .      |

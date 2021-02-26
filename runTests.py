@@ -3,6 +3,7 @@ import unittest
 from src.specialMultiple.specialMultipleTests import TestSpecialMultiple
 from src.countingValleys.countingValleysTests import TestCountingValleys
 from src.cycleDetection.cycleDetectionTests import TestCycleDetection
+from src.longestSubstring.longestSubstringTests import TestLongestSubstring
 from src.ransomNote.ransomNoteTests import TestRansomNote
 from src.makingAnagrams.makingAnagramsTests import TestMakingAnagrams
 from src.removeDuplicates.removeDuplicatesTests import TestRemoveDuplicates
