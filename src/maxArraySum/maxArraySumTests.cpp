@@ -17,7 +17,7 @@ TEST(MaxArraySum, TestLargeArrays)
   std::vector<int> input;
 
   std::string line;
-  std::ifstream testFile("./src/maxArraySum/testData.txt");
+  std::ifstream testFile(".././src/maxArraySum/testData.txt");
 
   if (testFile.is_open())
   {
