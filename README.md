@@ -83,6 +83,7 @@ python runTests.py
 | nonDivisible           | C++        |
 | isFibo                 | JavaScript |
 | removeDuplicates       | Python     |
+| reverseInteger         | Python     |
 | sherlockAndPermuations | C++        |
 | sherlockAndAnagrams    | JavaScript |
 | shortestPathMatrix     | Python     |
@@ -98,7 +99,7 @@ python runTests.py
 | C++        | 7     |
 | Java 8     | 7     |
 | JavaScript | 7     |
-| Python     | 6     |
+| Python     | 7     |
 
 ## License
 
