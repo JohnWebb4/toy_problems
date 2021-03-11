@@ -77,9 +77,10 @@ python runTests.py
 | huffmanDecoding        | Java 8     |
 | kCandyStore            | JavaScript |
 | longestSubstring       | Python     |
+| longestPalindrome      | C++        |
 | maxArraySum            | JavaScript |
 | magicSquare            | JavaScript |
-| minAbsDiff             | C++ .      |
+| minAbsDiff             | C++        |
 | nonDivisible           | C++        |
 | isFibo                 | JavaScript |
 | removeDuplicates       | Python     |
@@ -96,7 +97,7 @@ python runTests.py
 
 | Language   | Count |
 | ---------- | ----- |
-| C++        | 7     |
+| C++        | 8     |
 | Java 8     | 7     |
 | JavaScript | 7     |
 | Python     | 7     |

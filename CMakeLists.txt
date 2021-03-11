@@ -35,6 +35,7 @@ set(SOURCE
   ./src/nonDivisible/nonDivisible.cpp
   ./src/climbingLeaderboard/climbingLeaderboard.cpp
   ./src/comparator/comparator.cpp
+  ./src/longestPalindrome/longestPalindrome.cpp
   ./src/minAbsDiff/minAbsDiff.cpp
   ./src/maxArraySum/maxArraySum.cpp
 )                
@@ -42,7 +43,6 @@ set(SOURCE
 # Now simply link against gtest or gtest_main as needed. Eg
 add_executable(runTests ${SOURCE})
 target_link_libraries(runTests gtest_main)
-# add_test(NAME example_test COMMAND example)
 
 # Link tests
 target_include_directories(runTests PUBLIC src/)
