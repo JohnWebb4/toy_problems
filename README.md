@@ -92,13 +92,14 @@ python runTests.py
 | specialMultiple        | Python     |
 | sudokuSolver           | JavaScript |
 | sumNSeries             | C++        |
+| zigZagConversion       | Java       |
 
 ## Problem Count By Language
 
 | Language   | Count |
 | ---------- | ----- |
 | C++        | 8     |
-| Java 8     | 7     |
+| Java 8     | 8     |
 | JavaScript | 7     |
 | Python     | 7     |
 
