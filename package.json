@@ -21,15 +21,17 @@
     "url": "https://github.com/JohnWebb4/toy-problems/issues"
   },
   "homepage": "https://github.com/JohnWebb4/toy-problems#readme",
-  "dependencies": {},
+  "dependencies": {
+    "npm": "^7.6.3"
+  },
   "devDependencies": {
-    "@babel/core": "^7.13.1",
+    "@babel/core": "^7.13.10",
     "@babel/plugin-syntax-bigint": "^7.8.3",
-    "@babel/preset-env": "^7.13.5",
+    "@babel/preset-env": "^7.13.10",
     "@babel/preset-typescript": "^7.13.0",
-    "@types/jest": "^23.3.14",
-    "@types/node": "^12.20.4",
-    "jest": "^25.5.4",
-    "typescript": "^3.9.9"
+    "@types/jest": "^26.0.20",
+    "@types/node": "^14.14.33",
+    "jest": "^26.6.3",
+    "typescript": "^4.2.3"
   }
 }

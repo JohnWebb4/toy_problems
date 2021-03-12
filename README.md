@@ -100,7 +100,7 @@ python runTests.py
 | ---------- | ----- |
 | C++        | 8     |
 | Java 8     | 8     |
-| JavaScript | 7     |
+| JavaScript | 8     |
 | Python     | 7     |
 
 ## License
