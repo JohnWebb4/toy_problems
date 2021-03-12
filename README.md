@@ -65,6 +65,7 @@ python runTests.py
 | arrayManipulation      | Java 8     |
 | blackJack              | JavaScript |
 | balancedBrackets       | JavaScript |
+| chefAndGroups          | Python     |
 | comparator             | C++        |
 | countingValleys        | Python     |
 | courseSchedule         | Java       |
@@ -101,7 +102,7 @@ python runTests.py
 | C++        | 8     |
 | Java 8     | 8     |
 | JavaScript | 8     |
-| Python     | 7     |
+| Python     | 8     |
 
 ## License
 

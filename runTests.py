@@ -1,6 +1,7 @@
 import unittest
 
 from src.specialMultiple.specialMultipleTests import TestSpecialMultiple
+from src.chefAndGroups.chefAndGroupsTests import TestChefAndGroups
 from src.countingValleys.countingValleysTests import TestCountingValleys
 from src.cycleDetection.cycleDetectionTests import TestCycleDetection
 from src.longestSubstring.longestSubstringTests import TestLongestSubstring
