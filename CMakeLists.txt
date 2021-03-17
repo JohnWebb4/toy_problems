@@ -36,8 +36,9 @@ set(SOURCE
   ./src/climbingLeaderboard/climbingLeaderboard.cpp
   ./src/comparator/comparator.cpp
   ./src/longestPalindrome/longestPalindrome.cpp
-  ./src/minAbsDiff/minAbsDiff.cpp
   ./src/maxArraySum/maxArraySum.cpp
+  ./src/medianSortedArrays/medianSortedArrays.cpp
+  ./src/minAbsDiff/minAbsDiff.cpp
 )                
 
 # Now simply link against gtest or gtest_main as needed. Eg

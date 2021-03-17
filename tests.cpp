@@ -1,13 +1,14 @@
 #include "gtest/gtest.h"
 
-// #include "./src/sumNSeries/sumNSeriesTests.cpp"
-// #include "./src/sherlockAndPermutations/sherlockAndPermutationsTests.cpp"
-// #include "./src/nonDivisible/nonDivisibleTests.cpp"
-// #include "./src/climbingLeaderboard/climbingLeaderboardTests.cpp"
-// #include "./src/comparator/comparatorTests.cpp"
+#include "./src/sumNSeries/sumNSeriesTests.cpp"
+#include "./src/sherlockAndPermutations/sherlockAndPermutationsTests.cpp"
+#include "./src/nonDivisible/nonDivisibleTests.cpp"
+#include "./src/climbingLeaderboard/climbingLeaderboardTests.cpp"
+#include "./src/comparator/comparatorTests.cpp"
 #include "./src/longestPalindrome/longestPalindromeTests.cpp"
-// #include "./src/minAbsDiff/minAbsDiffTests.cpp"
-// #include "./src/maxArraySum/maxArraySumTests.cpp"
+#include "./src/maxArraySum/maxArraySumTests.cpp"
+#include "./src/medianSortedArrays/medianSortedArraysTests.cpp"
+#include "./src/minAbsDiff/minAbsDiffTests.cpp"
 
 int main(int argc, char **argv)
 {

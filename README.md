@@ -81,6 +81,7 @@ python runTests.py
 | longestPalindrome      | C++        |
 | maxArraySum            | JavaScript |
 | magicSquare            | JavaScript |
+| medianSortedArrays     | C++        |
 | minAbsDiff             | C++        |
 | nonDivisible           | C++        |
 | isFibo                 | JavaScript |
@@ -99,7 +100,7 @@ python runTests.py
 
 | Language   | Count |
 | ---------- | ----- |
-| C++        | 8     |
+| C++        | 9     |
 | Java 8     | 8     |
 | JavaScript | 8     |
 | Python     | 8     |
