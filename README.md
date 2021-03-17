@@ -87,6 +87,7 @@ python runTests.py
 | isFibo                 | JavaScript |
 | removeDuplicates       | Python     |
 | reverseInteger         | Python     |
+| romanToInteger         | Java       |
 | sherlockAndPermuations | C++        |
 | sherlockAndAnagrams    | JavaScript |
 | shortestPathMatrix     | Python     |
@@ -101,7 +102,7 @@ python runTests.py
 | Language   | Count |
 | ---------- | ----- |
 | C++        | 9     |
-| Java 8     | 8     |
+| Java 8     | 9     |
 | JavaScript | 8     |
 | Python     | 8     |
 
