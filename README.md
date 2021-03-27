@@ -85,6 +85,7 @@ python runTests.py
 | minAbsDiff             | C++        |
 | nonDivisible           | C++        |
 | isFibo                 | JavaScript |
+| queenAttackII          | JavaScript |
 | removeDuplicates       | Python     |
 | reverseInteger         | Python     |
 | romanToInteger         | Java       |
@@ -103,7 +104,7 @@ python runTests.py
 | ---------- | ----- |
 | C++        | 9     |
 | Java 8     | 9     |
-| JavaScript | 8     |
+| JavaScript | 9     |
 | Python     | 8     |
 
 ## License
