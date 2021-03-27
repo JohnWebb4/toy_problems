@@ -67,6 +67,7 @@ python runTests.py
 | balancedBrackets       | JavaScript |
 | chefAndGroups          | Python     |
 | comparator             | C++        |
+| containerOfBalls       | Python     |
 | countingValleys        | Python     |
 | courseSchedule         | Java       |
 | cycleDetection         | Python     |
@@ -105,7 +106,7 @@ python runTests.py
 | C++        | 9     |
 | Java 8     | 9     |
 | JavaScript | 9     |
-| Python     | 8     |
+| Python     | 9     |
 
 ## License
 
