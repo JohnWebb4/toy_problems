@@ -35,6 +35,7 @@ set(SOURCE
   ./src/nonDivisible/nonDivisible.cpp
   ./src/climbingLeaderboard/climbingLeaderboard.cpp
   ./src/comparator/comparator.cpp
+  ./src/countStrings/countStrings.cpp
   ./src/longestPalindrome/longestPalindrome.cpp
   ./src/maxArraySum/maxArraySum.cpp
   ./src/medianSortedArrays/medianSortedArrays.cpp

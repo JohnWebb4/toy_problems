@@ -5,6 +5,7 @@
 #include "./src/nonDivisible/nonDivisibleTests.cpp"
 #include "./src/climbingLeaderboard/climbingLeaderboardTests.cpp"
 #include "./src/comparator/comparatorTests.cpp"
+#include "./src/countStrings/countStringsTests.cpp"
 #include "./src/longestPalindrome/longestPalindromeTests.cpp"
 #include "./src/maxArraySum/maxArraySumTests.cpp"
 #include "./src/medianSortedArrays/medianSortedArraysTests.cpp"

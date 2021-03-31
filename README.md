@@ -69,6 +69,7 @@ python runTests.py
 | comparator             | C++        |
 | containerOfBalls       | Python     |
 | countingValleys        | Python     |
+| countStrings           | C++        |
 | courseSchedule         | Java       |
 | cycleDetection         | Python     |
 | determiningDNAHealth   | Java 8     |
@@ -103,7 +104,7 @@ python runTests.py
 
 | Language   | Count |
 | ---------- | ----- |
-| C++        | 9     |
+| C++        | 10    |
 | Java 8     | 9     |
 | JavaScript | 9     |
 | Python     | 9     |
