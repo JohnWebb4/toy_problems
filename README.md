@@ -73,6 +73,7 @@ python runTests.py
 | cycleDetection         | Python     |
 | determiningDNAHealth   | Java 8     |
 | diwaliLights           | Java 8     |
+| encryption             | C++        |
 | ransonNote             | Python     |
 | extraLongFactorials    | Java 8     |
 | hashTableParlor        | Java 8     |
@@ -103,7 +104,7 @@ python runTests.py
 
 | Language   | Count |
 | ---------- | ----- |
-| C++        | 9     |
+| C++        | 10    |
 | Java 8     | 9     |
 | JavaScript | 9     |
 | Python     | 9     |
