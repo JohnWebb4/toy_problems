@@ -65,6 +65,7 @@ python runTests.py
 | arrayManipulation      | Java 8     |
 | blackJack              | JavaScript |
 | balancedBrackets       | JavaScript |
+| biggerIsGreater        | Java 8     |
 | chefAndGroups          | Python     |
 | comparator             | C++        |
 | containerOfBalls       | Python     |
@@ -105,7 +106,7 @@ python runTests.py
 | Language   | Count |
 | ---------- | ----- |
 | C++        | 10    |
-| Java 8     | 9     |
+| Java 8     | 10    |
 | JavaScript | 9     |
 | Python     | 9     |
 
