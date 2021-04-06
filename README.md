@@ -62,6 +62,7 @@ python runTests.py
 
 | Problem                | Language   |
 | ---------------------- | ---------- |
+| absolutePermutation    | JavaScript |
 | arrayManipulation      | Java 8     |
 | blackJack              | JavaScript |
 | balancedBrackets       | JavaScript |
@@ -107,7 +108,7 @@ python runTests.py
 | ---------- | ----- |
 | C++        | 10    |
 | Java 8     | 10    |
-| JavaScript | 9     |
+| JavaScript | 10    |
 | Python     | 9     |
 
 ## License
