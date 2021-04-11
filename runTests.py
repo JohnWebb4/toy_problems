@@ -11,6 +11,7 @@ from src.makingAnagrams.makingAnagramsTests import TestMakingAnagrams
 from src.removeDuplicates.removeDuplicatesTests import TestRemoveDuplicates
 from src.shortestPathMatrix.shortestPathMatrixTests import TestShortestPathMatrix
 from src.reverseInteger.reverseIntegerTests import TestReverseInteger
+from src.roadsAndLibraries.roadsAndLibrariesTests import TestRoadsAndLibraries
 
 if __name__ == '__main__':
     unittest.main()
