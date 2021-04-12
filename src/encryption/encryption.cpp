@@ -10,9 +10,9 @@ std::string encryption(std::string s)
     std::string noSpaces = s;
     noSpaces.erase(std::remove_if(noSpaces.begin(), noSpaces.end(), ::isspace), noSpaces.end());
 
-    double rootLength = std::sqrt(noSpaces.size());
-    size_t rowLength = std::floor(rootLength);
-    size_t columnLength = std::ceil(rootLength);
+    double rootLength = sqrt(noSpaces.size());
+    size_t rowLength = floor(rootLength);
+    size_t columnLength = ceil(rootLength);
 
     if (rowLength * columnLength < noSpaces.size())
     {

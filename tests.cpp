@@ -10,6 +10,7 @@
 #include "./src/maxArraySum/maxArraySumTests.cpp"
 #include "./src/medianSortedArrays/medianSortedArraysTests.cpp"
 #include "./src/minAbsDiff/minAbsDiffTests.cpp"
+#include "./src/greedyFlorist/greedyFloristTests.cpp"
 
 int main(int argc, char **argv)
 {

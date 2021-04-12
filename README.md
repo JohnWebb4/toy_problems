@@ -78,6 +78,7 @@ python runTests.py
 | encryption             | C++        |
 | ransonNote             | Python     |
 | extraLongFactorials    | Java 8     |
+| greedyFlorist          | C++        |
 | hashTableParlor        | Java 8     |
 | huffmanDecoding        | Java 8     |
 | kCandyStore            | JavaScript |
@@ -107,7 +108,7 @@ python runTests.py
 
 | Language   | Count |
 | ---------- | ----- |
-| C++        | 10    |
+| C++        | 11    |
 | Java 8     | 10    |
 | JavaScript | 10    |
 | Python     | 10    |

@@ -40,6 +40,7 @@ set(SOURCE
   ./src/maxArraySum/maxArraySum.cpp
   ./src/medianSortedArrays/medianSortedArrays.cpp
   ./src/minAbsDiff/minAbsDiff.cpp
+  ./src/greedyFlorist/greedyFlorist.cpp
 )                
 
 # Now simply link against gtest or gtest_main as needed. Eg
