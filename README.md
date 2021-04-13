@@ -73,6 +73,7 @@ python runTests.py
 | countingValleys        | Python     |
 | courseSchedule         | Java       |
 | cycleDetection         | Python     |
+| davisStaircase         | Java 8     |
 | determiningDNAHealth   | Java 8     |
 | diwaliLights           | Java 8     |
 | encryption             | C++        |
@@ -109,7 +110,7 @@ python runTests.py
 | Language   | Count |
 | ---------- | ----- |
 | C++        | 11    |
-| Java 8     | 10    |
+| Java 8     | 11    |
 | JavaScript | 10    |
 | Python     | 10    |
 
