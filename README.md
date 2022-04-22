@@ -58,6 +58,14 @@ The file `runTests.py` initializes the test runner. Run the following command
 python runTests.py
 ```
 
+### Running Go Tests
+
+Run the following command
+
+```sh
+go test **/*.go
+```
+
 ## Problems Solved
 
 | Problem                | Language   |
@@ -74,6 +82,7 @@ python runTests.py
 | courseSchedule         | Java       |
 | cycleDetection         | Python     |
 | davisStaircase         | Java 8     |
+| designHashMap          | Go         |
 | determiningDNAHealth   | Java 8     |
 | diwaliLights           | Java 8     |
 | encryption             | C++        |
@@ -110,6 +119,7 @@ python runTests.py
 | Language   | Count |
 | ---------- | ----- |
 | C++        | 11    |
+| Go         | 1     |
 | Java 8     | 11    |
 | JavaScript | 10    |
 | Python     | 10    |
