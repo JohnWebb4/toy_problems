@@ -98,6 +98,7 @@ go test **/*.go
 | magicSquare            | JavaScript |
 | medianSortedArrays     | C++        |
 | minAbsDiff             | C++        |
+| moveZeroes             | Go         |
 | nonDivisible           | C++        |
 | isFibo                 | JavaScript |
 | queenAttackII          | JavaScript |
@@ -119,7 +120,7 @@ go test **/*.go
 | Language   | Count |
 | ---------- | ----- |
 | C++        | 11    |
-| Go         | 1     |
+| Go         | 2     |
 | Java 8     | 11    |
 | JavaScript | 10    |
 | Python     | 10    |
